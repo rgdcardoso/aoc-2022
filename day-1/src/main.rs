@@ -71,8 +71,6 @@ fn second() {
     println!("Sum of top three: {}", sum_top_three);
 }
 
-
-
 fn main() {
 
     first();
